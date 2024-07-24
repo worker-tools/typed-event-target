@@ -1,0 +1,12 @@
+{
+  "name": "@workers/typed-event-target",
+  "version": "0.0.1",
+  "exports": "./index.ts",
+  "publish": {
+    "exclude": [
+      ".github",
+      "scripts",
+      "test"
+    ]
+  }
+}
